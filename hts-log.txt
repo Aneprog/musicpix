@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 May 2024 18:21:12 at https://musicapp.top/musicyt/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://musicapp.top/musicyt/ -O1 "C:\Users\DXP HUB\Desktop\Musicapix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:21:16	Error: 	"Not Found" (404) at link https://musicapp.top/musicyt/js/date.js (from https://musicapp.top/musicyt/)
+18:21:20	Error: 	"Not Found" (404) at link https://musicapp.top/musicyt/amung.us/dynamic.js (from waust.at/d.js)
+18:21:25	Error: 	"Not Found" (404) at link https://musicapp.top/musicyt/vsl/GET (from https://musicapp.top/musicyt/vsl/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 39 links scanned, 35 files written (2585442 bytes overall) [1381347 bytes received at 106257 bytes/sec], 1886148 bytes transferred using HTTP compression in 26 files, ratio 34%, 3.9 requests per connection
+(3 errors, 0 warnings, 0 messages)
